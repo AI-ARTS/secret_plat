@@ -4,6 +4,7 @@ using namespace std;
 
 AesCrypto::AesCrypto(string key)
 {
+	// AES 是对称加密算法
 	int keyLen = key.length();
 	if (keyLen == 16 || keyLen == 24 || keyLen == 32) {
 		unsigned char* aesKey = (unsigned char*)key.c_str();

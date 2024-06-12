@@ -3,6 +3,7 @@
 #include <openssl/aes.h>
 using namespace std;
 
+// AES加密
 class AesCrypto
 {
 public:

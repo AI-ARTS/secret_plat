@@ -74,6 +74,7 @@ int ClientOP::showMenu()
 	return nSel;
 }
 
+// 密钥协商。
 bool ClientOP::secKeyConsult()
 {
 	/* 使用RSA算法生成秘钥对，将公钥字符串读出 */
