@@ -1,9 +1,4 @@
-/*************************************************************************
-	> File Name: RespondFactory.cpp
-	> Author: lbw
-	> Mail: 296273803@qq.com 
-	> Created Time: 2021年08月07日 星期六 16时07分58秒
- ************************************************************************/
+
 
 #include "RespondFactory.h"
 #include "RespondCodec.h"

@@ -1,10 +1,3 @@
-/*************************************************************************
-	> File Name: AesCrypto.cpp
-	> Author: lbw
-	> Mail: 296273803@qq.com 
-	> Created Time: Fri 13 Aug 2021 03:07:10 PM CST
- ************************************************************************/
-
 #include <iostream>
 #include "AesCrypto.h"
 using namespace std;

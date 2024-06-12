@@ -1,10 +1,3 @@
-/*************************************************************************
-	> File Name: AesCrypto.h
-	> Author: lbw
-	> Mail: 296273803@qq.com 
-	> Created Time: Fri 13 Aug 2021 03:01:44 PM CST
- ************************************************************************/
-
 #pragma once
 #include <iostream>
 #include <openssl/aes.h>

@@ -1,9 +1,4 @@
-/*************************************************************************
-	> File Name: Interface.cpp
-	> Author: lbw
-	> Mail: 296273803@qq.com 
-	> Created Time: Thu 19 Aug 2021 11:07:37 PM CST
- ************************************************************************/
+
 
 #include <iostream>
 #include <fstream>
